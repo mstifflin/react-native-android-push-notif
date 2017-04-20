@@ -13,5 +13,7 @@ Use your USB connected Android phone in USB debugging mode or install this emula
 https://docs.expo.io/versions/v12.0.0/guides/genymotion.html
 
 Once those two steps are finished:
+
 npm install from the root directory
+
 react-native run-android
