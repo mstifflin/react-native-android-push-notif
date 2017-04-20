@@ -39,9 +39,11 @@ export default class HomeScreen extends Component {
 
   render() {
     return (
-      <Button title='Press here for a notification'
-        onPress={this.sendNotification} />
-      <PushController />
+      <View>
+        <Button title='Press here for a notification'
+          onPress={this.sendNotification} />
+        <PushController />
+      </View>
     );
   };
 };
