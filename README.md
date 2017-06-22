@@ -1,5 +1,7 @@
 # react-native-android-push-notif
 
+Read the full instructions here: https://medium.com/@mstifflin/how-to-set-up-local-notifications-for-android-in-react-native-f062232c4be8
+
 A tutorial on implementing push notifications into your React Native app.
 
 Running this example: 
